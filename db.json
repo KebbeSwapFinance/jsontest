@@ -1,7 +1,23 @@
-{
-  "id": 0,
-  "description": "My NFT",
-  "external_url": "https://pancakeswap.finance/pools",
-  "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-  "name": "My Super NFT "
-}
+[
+  {
+    "id": 0,
+    "description": "My NFT",
+    "external_url": "pajoranian.com",
+    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+    "name": "My NFT 0"
+  },
+  {
+    "id": 1,
+    "description": "My NFT",
+    "external_url": "pajoranian.com",
+    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+    "name": "My NFT 1"
+  },
+  {
+    "id": 2,
+    "description": "My NFT",
+    "external_url": "pajoranian.com",
+    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+    "name": "My NFT 2"
+  }
+]
