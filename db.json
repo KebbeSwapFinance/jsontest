@@ -1,23 +1,27 @@
-[
+{
+  "description": "Artists' Liberation Front Fist",
+  "external_url": "https://www.cryptoforbeirut.com/assets/images/img-819effe56e98-1-847x1052.jpg",
+  "image": "https://ropsten.infura.io/v3/31b1e9115c9345afb57d33fe4bb664e9",
+  "name": "PGG",
+  "attributes": [
   {
-    "id": 0,
-    "description": "My NFT",
-    "external_url": "pajoranian.com",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "My NFT 0"
-  },
-  {
-    "id": 1,
-    "description": "My NFT",
-    "external_url": "pajoranian.com",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "My NFT 1"
-  },
-  {
-    "id": 2,
-    "description": "My NFT",
-    "external_url": "pajoranian.com",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "My NFT 2"
-  }
-]
+      "trait_type": "Artist Name",
+      "value": "Johnny Dollar"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Post Pop"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Artist Proof"
+    },
+    {
+      "trait_type": "Original Media",
+      "value": "Digital"
+    },
+    {
+      "trait_type": "dimension",
+      "value": "128px x 128px"
+    }]
+}
