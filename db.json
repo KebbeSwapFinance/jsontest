@@ -1,27 +1,21 @@
 {
-  "description": "Artists' Liberation Front Fist",
-  "external_url": "https://www.cryptoforbeirut.com/assets/images/img-819effe56e98-1-847x1052.jpg",
-  "image": "https://ropsten.infura.io/v3/31b1e9115c9345afb57d33fe4bb664e9",
-  "name": "PGG",
-  "attributes": [
-  {
-      "trait_type": "Artist Name",
-      "value": "Johnny Dollar"
-    },
-    {
-      "trait_type": "Series",
-      "value": "Post Pop"
-    },
-    {
-      "trait_type": "Edition",
-      "value": "Artist Proof"
-    },
-    {
-      "trait_type": "Original Media",
-      "value": "Digital"
-    },
-    {
-      "trait_type": "dimension",
-      "value": "128px x 128px"
-    }]
+   "Token": [
+	
+      {
+         "id":"00",
+         "language": "PGG",
+         "image": "https://ipfs.io/ipfs/QmUSUjGx9rW3ZY8WWj7waKgYBDB24G91LkiMSMnKYWbhH8"
+      },
+	
+      {
+         "id":"01",
+         "language": "JM",
+         "image": "https://ipfs.io/ipfs/QmPUu1S8NFiS6TCd6Q98MGNJ1fAQPqPMGJhwG69sUkhxDE"
+      },	
+      {
+         "id":"02",
+         "language": "AJ",
+         "image": "https://ipfs.io/ipfs/QmSj5JLo1sWnVRQEWr34EjPBGWuwSpDRESuD3MuvB93cEE"
+      }
+   ]
 }
