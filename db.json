@@ -2,24 +2,24 @@
     "tokens": [
         {
             "id": 0,
-            "description": "PGG",
-            "external_url": "",
-            "image": "https://ipfs.io/ipfs/QmUSUjGx9rW3ZY8WWj7waKgYBDB24G91LkiMSMnKYWbhH8",
-            "name": "My NFT 0"
+            "description": "Bitcoin",
+            "external_url": "Pajoranian",
+            "image": "https://ipfs.io/ipfs/QmSNpjLT6JjXdFKXnNB2bF7mvbtAyurpcshaBGJ5WHg3gh",
+            "name": "PGG"
         },
         {
             "id": 1,
-            "description": "JM",
-            "external_url": "",
-            "image": "https://ipfs.io/ipfs/QmPUu1S8NFiS6TCd6Q98MGNJ1fAQPqPMGJhwG69sUkhxDE",
-            "name": "My NFT 1"
+            "description": "MOON",
+            "external_url": "Pajoranian",
+            "image": "https://ipfs.io/ipfs/QmSj5JLo1sWnVRQEWr34EjPBGWuwSpDRESuD3MuvB93cEE",
+            "name": "JM"
         },
         {
             "id": 2,
-            "description": "AJ",
-            "external_url": "",
-            "image": "https://ipfs.io/ipfs/QmSj5JLo1sWnVRQEWr34EjPBGWuwSpDRESuD3MuvB93cEE",
-            "name": "My NFT 2"
+            "description": "Doge",
+            "external_url": "Pajoranian",
+            "image": "https://ipfs.io/ipfs/QmfNrnLZksFcENPv2d6TchxvKEDZpqBSdmhAr849vP2PzW",
+            "name": "AJ"
         }
     ]
 }
