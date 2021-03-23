@@ -20,6 +20,13 @@
             "external_url": "Pajoranian",
             "image": "https://ipfs.io/ipfs/QmWWMGpHey8jgtvsHopuo6rRjJ6VURG3q3oa52rMoAuBhQ",
             "name": "AJ"
+        },
+        {
+            "id": 3,
+            "description": "Wheel",
+            "external_url": "Pajoranian",
+            "image": "https://ipfs.io/ipfs/Qmb5WvLdEdDuVjWb4EX9BWC1CHHoaGjETDQEYDerJ3Khsw",
+            "name": "UN"
         }
     ]
 }
